@@ -1,5 +1,5 @@
 [Unit]
-Description=WPEFramework MotionDetection Initialiser
+Description=WPEFramework MotionDetection Initialisers
 Requires=wpeframework.service
 After=wpeframework.service
 ConditionPathExists=/tmp/wpeframeworkstarted
